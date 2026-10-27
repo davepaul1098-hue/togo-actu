@@ -1,0 +1,8 @@
+{
+  "appId": "com.davepaul.togoactu",
+  "appName": "Togo Actu",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
